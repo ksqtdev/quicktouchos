@@ -1,4 +1,4 @@
-![Evolution X](https://github.com/Evolution-X/manifest/raw/vic/Banner.png)
+![Evolution X](https://raw.githubusercontent.com/ksqtdev/quicktouchos/refs/heads/main/banner.png)
 
 [![Download Evolution X](https://img.shields.io/sourceforge/dm/evolution-x.svg)](https://sourceforge.net/projects/evolution-x/files)[![Download Evolution X](https://img.shields.io/sourceforge/dt/evolution-x.svg)](https://evolution-x.org/download)
 
