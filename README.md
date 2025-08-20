@@ -26,6 +26,3 @@ Basically it is a lite version of QuickTouch OS.
 
 # QuickTouchOS 10
 Based on Android 14.
-
-# QuickTouchOS 9 (IN DEVELOPMENT)
-Based on Android 13.
